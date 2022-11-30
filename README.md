@@ -1,5 +1,5 @@
 # TUM Panopto Downloader
-You will need a token which can be found by login into tum.cloud.panopto.eu and opening the developer pannel. Then go to APplication, Cookies and copy the csrfToken.
+You will need a token which can be found by login into tum.cloud.panopto.eu and opening the developer pannel. Then go to APplication, Cookies and copy the .ASPXAUTH token.
 
 ## Usage
 ```sh
