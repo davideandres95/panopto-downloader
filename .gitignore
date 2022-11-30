@@ -1,0 +1,8 @@
+/bin
+/lib
+/downloads
+/etc
+/inlcude
+lib64
+pyvenv.cfg
+/share
